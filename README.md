@@ -42,7 +42,7 @@ enter:
 
 ``` r
 # install via CRAN
-install.package("ggcoverage")
+install.packages("ggcoverage")
 
 # install via Github
 # install.package("remotes")   #In case you have not installed it.
